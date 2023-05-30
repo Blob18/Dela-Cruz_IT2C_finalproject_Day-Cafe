@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-project>
+  <title> DayCafe </title>
+  <link></link>
+  <description>DayCafe website is a lively and eye-catching online venue that highlights the attractiveness, offerings, and atmosphere of the café. The website offers users a fun and educational experience with its attractive design and simple navigation.Visitors are welcomed by an alluring homepage that perfectly conveys the feel of the café when they arrive at the Cafe website. The homepage's enticing photographs of exquisitely prepared food and drinks leave visitors with an immediate hankering for the café's delectable fare. A beautifully created logo and tagline give the café some individuality while reiterating its distinctive identity..</description>
+  <author>
+    <name>Aliza MAriz R. Rabe</name>
+    <email>alizarabe2003@gmail.com</email>
+  </author>
+  <created>May 24, 2023</created>
+  <pages>
+    <page>
+      <title>DayCafe Website</title>
+      <php>index.php</php>
+      <xml>index.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe About</title>
+      <php>about.php</php>
+      <xml>about.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Coffees </title>
+      <php>coffees.php</php>
+      <xml>coffees.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Contact</title>
+      <php>contact.php</php>
+      <xml>contact.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Blog</title>
+      <php>blog.php</php>
+      <xml>blog.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe About Us </title>
+      <php>aboutUs.php</php>
+      <xml>aboutUs.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe  Make Reservation</title>
+      <php>MakeReservation.php</php>
+      <xml>MakeReservation.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Bean Varieties</title>
+      <php>BeanVarieties.php</php>
+      <xml>BeanVarieties.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Types of Coffee</title>
+      <php>TypesOfCoffee.php</php>
+      <xml>TypesOfCoffee.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Coffee To Go</title>
+      <php>CoffeeToGo.php</php>
+      <xml>CoffeeToGo.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Coffee And Pastry</title>
+      <php>CoffeeAndPastry.php</php>
+      <xml>CoffeeAndPastry.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Pref techniques</title>
+      <php>preftechniques.php</php>
+      <xml>preftechniques.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe Pref techniques1 </title> 
+      <php>preftechniques1.php</php>
+      <xml>preftechniques1.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe client</title>
+      <php>client.php</php>
+      <xml>client.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe client1</title>
+      <php>client1.php</php>
+      <xml>client1.xml</xml>
+    </page>
+    <page>
+      <title>DayCafe client2</title>
+      <php>client2.php</php>
+      <xml>client2.xml</xml>
+    </page>
+  </pages>
+</web-project>
