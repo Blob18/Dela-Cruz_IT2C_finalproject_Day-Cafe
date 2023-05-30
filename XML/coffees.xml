@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<coffee>
+	<content>
+		<title>About</title>
+		<home>Home</home>
+		<about>About</about>
+		<Coffees>Coffees</Coffees>
+		<Blog>Blog</Blog>
+		<Contact>Contact</Contact>
+		<logIn>Login</logIn>
+		<offer>Our Coffee and Pastry Offer</offer>
+		<types1>Cappuccino ₱50</types1>
+		<types2>Latte and Strawberry Shortcake ₱150</types2>
+		<types3>Coffe and Croissants ₱150</types3>
+		<types4>Pistachio Honey Baklava Rolls ₱200</types4>
+		<types5>Pancake ₱50</types5>
+		<types6>Milkshake and Pancake ₱80</types6>
+		<combo>Latte and Strawberry Shortcake ₱150</combo>
+		<read>Read More</read>
+		<varieties>Creamed Horns ₱60</varieties>
+		<drinks>Iced Caramel Macchiato ₱70</drinks>
+		<coffee>Expresso Shot ₱50</coffee>
+		<desert>Dulce de Leche Tart ₱100</desert>
+		<varieties1>Cinamon Bread with Chocolate Filling ₱150</varieties1>
+		<pastry>Coffee Manggo ₱100</pastry>
+		<pastry1>Dalgona Coffee ₱100</pastry1>
+		<touch>Get In Touch</touch>
+		<send>SEND</send>
+		<number>+01 1234567890</number>
+		<email>demo@gmail.com</email>
+		 <copyright>Sample Website only</copyright>
+	</content>
+</coffee>
