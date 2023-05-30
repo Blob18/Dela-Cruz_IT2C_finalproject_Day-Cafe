@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<about>
+	<content>
+		<title>Blog</title>
+		<home>Home</home>
+		<about>About</about>
+		<Coffees>Coffees</Coffees>
+		<Blog>Blog</Blog>
+		<Contact>Contact</Contact>
+		<logIn>Login</logIn>
+		<shop>About Our shop</shop>
+		<information>Day Cafe Information</information>
+		<text>Day Cafe is a cozy and inviting coffee shop located in the heart of downtown. We are dedicated to providing our customers with an exceptional experience, from the moment they step through our doors until their last sip of coffee. Our goal is to create a warm atmosphere where people can come together for conversation over quality beverages and snacks. At Day Cafe, we strive to serve only the freshest ingredients in all of our drinks and food items. All of our coffees are freshly ground on-site each day using premium beans sourced from sustainable farms around the world. Whether you’re looking for a classic cup or something more exotic like one of our signature lattes or cappuccinos, you’ll find it here at Day Cafe! 
+We also offer delicious pastries made fresh daily by local bakers as well as savory sandwiches that will make your mouth water! There's something for everyone at Day Cafe - so come join us soon!
+		</text>
+		<read>Read More</read>
+		<number>+01 1234567890</number>
+		<email>demo@gmail.com</email>
+		<copyright>Sample Website only</copyright>
+	</content>
+</about>
