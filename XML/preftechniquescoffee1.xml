@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pref1>
+	<content>
+		<title>Blog</title>
+		<home>Home</home>
+		<about>About</about>
+		<Coffees>Coffees</Coffees>
+		<Blog>Blog</Blog>
+		<Contact>Contact</Contact>
+		<logIn>Login</logIn>
+		<shop>About Our shop</shop>
+		<information>About Making Coffee</information>
+		<text>Making coffee drinks can be a fun and rewarding experience. Whether you’re brewing for yourself or friends, there are some techniques to keep in mind that will help ensure the perfect cup of joe.First, it is important to select the right type of beans and grind them properly for your desired brew method. Choosing high-quality whole bean coffee ensures optimal flavor when brewed correctly; however, pre-ground coffee can also work well if stored properly in an airtight container away from heat and light sources. Grinding your own beans allows you to customize the size of grounds used which helps control extraction time during brewing - finer grounds extract faster than coarser ones so adjust accordingly depending on what type of drink you want (espresso vs drip).Second, consider water temperature when making any kind of beverage with hot water as this affects taste significantly – too low temperatures won’t extract enough flavor while too high temperatures may scald delicate flavors out completely! Espressos should be made with boiling water while most other methods require slightly cooler temps (around 195°F). Lastly experiment with different ratios between ground amount/coffee strength/water quantity until desired results are achieved - this takes practice but once mastered yields delicious cups every time!Finally don't forget about milk based beverages such as lattes or cappuccinos where steaming technique plays an important role – use a thermometer if possible to get exact temperatures needed for proper foam formation; additionally timing is key here since oversteaming causes undesirable bitter tastes due lack oxygenation during process itself so watch closely! With all these tips combined anyone should have no problem crafting their favorite caffeinated concoction at home like barista pro :)
+		</text>
+		<read>Read More</read>
+		<number>+01 1234567890</number>
+		<email>demo@gmail.com</email>
+		<copyright>Sample Website only</copyright>
+	</content>
+</pref1>
