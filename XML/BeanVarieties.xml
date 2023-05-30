@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bean>
+	<content>
+		<title>Blog</title>
+		<home>Home</home>
+		<about>About</about>
+		<Coffees>Coffees</Coffees>
+		<Blog>Blog</Blog>
+		<Contact>Contact</Contact>
+		<logIn>Login</logIn>
+		<shop>About Our shop</shop>
+		<information>Coffee Bean Variety</information>
+		<text>Coffee beans come in a variety of types, each with its own unique flavor and properties. From the robusta bean to the milder arabica bean, there are many different varieties to choose from when selecting coffee beans for brewing. In addition to these two common types of coffee beans, there is also a wide range of specialty coffees that offer even more distinct flavors and aromas. 
+
+The most popular type of coffee bean is Arabica which has been used for centuries due to its smooth taste and low acidity levels. It's grown mainly in Central America as well as parts of South America and Africa where it's harvested twice per year during peak seasons. Arabica offers an array of complex flavors such as chocolatey notes or floral hints depending on how it’s roasted or brewed - making it perfect for any occasion whether you're looking for something light or strong! 
+  			   	  	    
+
+Robusta Coffee Beans on the other hand have higher caffeine content than their arabica counterparts but tend not be favored by connoisseurs because they can be bitter tasting if over-roasted; however this makes them ideal candidates for espresso blends since they provide that extra kick needed in order create an intense cup o' Joe! Robusta is usually grown at lower altitudes so farmers can produce larger yields faster than what would typically be achieved with Arabica plants – making them cheaper too! 
+
+Overall both Robusta and Arabic coffees offer consumers plenty options when searching out their favorite brews - no matter what your preference may be one thing remains certain: everyone loves a good cup o’ joe no matter what kind you prefer drinking!
+		</text>
+		<read>Read More</read>
+		<number>+01 1234567890</number>
+		<email>demo@gmail.com</email>
+		<copyright>Sample Website only</copyright>
+	</content>
+</bean>
