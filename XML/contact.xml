@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contact>
+	<content>
+		<title>Contact</title>
+		<home>Home</home>
+		<about>About</about>
+		<Coffees>Coffees</Coffees>
+		<Blog>Blog</Blog>
+		<Contact>Contact</Contact>
+		<logIn>Login</logIn>
+		<touch>Get In Touch</touch>
+		<send>SEND</send>
+		<number>+01 1234567890</number>
+		<email>demo@gmail.com</email>
+		 <copyright>Sample Website only</copyright>
+	</content>
+</contact>
