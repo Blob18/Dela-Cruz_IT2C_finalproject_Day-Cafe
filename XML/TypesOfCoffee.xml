@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<about>
+	<content>
+		<title>Blog</title>
+		<home>Home</home>
+		<about>About</about>
+		<Coffees>Coffees</Coffees>
+		<Blog>Blog</Blog>
+		<Contact>Contact</Contact>
+		<logIn>Login</logIn>
+		<shop>About Our shop</shop>
+		<information>Types of Coffee</information>
+		<text>Coffee is one of the most popular drinks in the world and comes in many different varieties. From light, delicate flavors to bold, robust blends, there’s something for everyone when it comes to coffee. The three main types of coffee are espresso-based drinks, brewed coffees and instant coffees. 
+
+Espresso-based beverages are made by forcing hot water through finely ground beans at high pressure. This results in a strong flavor with an intense aroma that can be enjoyed on its own or combined with other ingredients like milk or cream for a more complex drink such as cappuccino or latte macchiato. Espresso also forms the base of popular specialty drinks such as mochas and frappes which add sweetness from syrups and chocolate respectively while still retaining that deep espresso flavor profile. 
+
+Brewed coffees use hot water brought into contact with medium ground beans over time - usually up to 10 minutes - resulting in a less concentrated but smoother beverage than an espresso based drink would produce; this type also includes pour overs which require additional skill from baristas due to their manual nature compared to automatic brewers used commercially today . Brewed coffee has become increasingly popular among home enthusiasts thanks largely due its versatility: it can be served black without any added ingredients if desired but adding sugar or cream will result in sweeter tasting beverages like cafe au lait's , cortados ,and flat whites .  
+
+ Finally we have instant coffees which employ freeze drying techniques after brewing so they can later be reconstituted quickly using just boiling water; these often come preflavored depending on brand preference though unflavored versions exist too much like their freshly brewed counterparts albeit somewhat weaker due lack of aromatics released during preparation process ; regardless they remain convenient alternatives when no access fresh brews is available making them perfect choices camping trips road journeys etc .    In conclusion each type offers unique experiences allowing consumers find right fit according needs preferences taste buds alike whether seeking quick fix energy boost special occasion indulgence better understanding all options helps ensure optimal satisfaction every cup journey begins here !
+		</text>
+		<read>Read More</read>
+		<number>+01 1234567890</number>
+		<email>demo@gmail.com</email>
+		<copyright>Sample Website only</copyright>
+	</content>
+</about>
